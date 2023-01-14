@@ -1,0 +1,7 @@
+C:\PROG1925\assigments\A4JRBA\bin\Debug\A4JRBA.exe.config
+C:\PROG1925\assigments\A4JRBA\bin\Debug\A4JRBA.exe
+C:\PROG1925\assigments\A4JRBA\bin\Debug\A4JRBA.pdb
+C:\PROG1925\assigments\A4JRBA\obj\Debug\A4JRBA.csproj.AssemblyReference.cache
+C:\PROG1925\assigments\A4JRBA\obj\Debug\A4JRBA.csproj.CoreCompileInputs.cache
+C:\PROG1925\assigments\A4JRBA\obj\Debug\A4JRBA.exe
+C:\PROG1925\assigments\A4JRBA\obj\Debug\A4JRBA.pdb
